@@ -1,1 +1,52 @@
 Linux nytrez 5.8.0-33-generic #36~20.04.1-Ubuntu SMP Wed Dec 9 17:01:13 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:       15811280 kB
+MemFree:        10412716 kB
+MemAvailable:   12438584 kB
+Buffers:          120564 kB
+Cached:          2280584 kB
+SwapCached:            0 kB
+Active:          3319264 kB
+Inactive:        1294996 kB
+Active(anon):    2213036 kB
+Inactive(anon):   182052 kB
+Active(file):    1106228 kB
+Inactive(file):  1112944 kB
+Unevictable:          48 kB
+Mlocked:              48 kB
+SwapTotal:       2097148 kB
+SwapFree:        2097148 kB
+Dirty:               864 kB
+Writeback:             0 kB
+AnonPages:       2213316 kB
+Mapped:           874296 kB
+Shmem:            183856 kB
+KReclaimable:     114464 kB
+Slab:             286960 kB
+SReclaimable:     114464 kB
+SUnreclaim:       172496 kB
+KernelStack:       16720 kB
+PageTables:        45100 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    10002788 kB
+Committed_AS:   11021456 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       37028 kB
+VmallocChunk:          0 kB
+Percpu:            12992 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      700096 kB
+DirectMap2M:     9127936 kB
+DirectMap1G:     7340032 kB
